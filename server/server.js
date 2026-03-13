@@ -13,6 +13,11 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
 
+// Health check route
+app.get("/", (req, res) => {
+    res.send("MHT CET College Predictor Backend Running");
+});
+
 // Request logger
 app.use((req, res, next) => {
     console.log(`${req.method} ${req.url}`);
