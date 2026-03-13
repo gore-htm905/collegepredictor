@@ -1,0 +1,401 @@
+
+--- PAGE 1 ---
+813:  Government of Maharashtra
+812: D
+795: i  State Common Entrance Test Cell
+782:  Cut Off List for Maharashtra & Minority Seats of   CAP Round I   for Admission to First Year of Four Year
+779: r
+770: Degree Courses In Engineering and Technology & Master of Engineering and Technology (Integrated 5 Years) for the Year 2025-26
+748:  01002 - Government College of Engineering, Amravati
+730:  0100219110 - Civil Engineering
+715: Status:  
+714: Government Autonomous   Home University :   Autonomous Institute
+697:  State Level
+674:  GOPENS   GSCS   GSTS   GVJS   GNT1S   GNT2S   GNT3S   GOBCS   GSEBCS   LOPENS   LSCS   LSTS   LVJS   LNT2S   LOBCS   LSEBCS   PWDOPENS   PWDOBCS   DEFOPENS   DEFOBCS   TFWS   PWDRSCS   DEFROBCS   ORPHAN   EWS
+671:  Stage
+648: 37591 58518 94334 44057 48422 41549 50563 44130 62247 30071 45170 49208 66707 62338 41127 69477 131331 197856 47707 85223 37350 200074 95765 179315 90389
+647:  I  
+640: (88.9550679) (82.3322294) (69.4936445) (86.9194446) (85.5729148) (87.6872170) (84.8736599) (86.9194446) (81.1295102) (91.1459607) (86.6223776) (85.2215842) (79.6986029) (81.1295102) (87.9159305) (78.6137148) (53.6060165) (7.1701886) (85.8501253) (73.2612864) (88.9773781) (4.5709952) (69.0979021) (23.4132019) (71.4755245)
+595:  0100224210 - Computer Science and Engineering
+580: Status:  
+579: Government Autonomous   Home University :   Autonomous Institute
+562:  State Level
+539:  GOPENS   GSCS   GSTS   GVJS   GNT1S   GNT2S   GOBCS   GSEBCS   LOPENS   LSCS   LSTS   LNT1S   LNT3S   LOBCS   LSEBCS   PWDOPENS   PWDOBCS   DEFOPENS   DEFOBCS   TFWS   PWDROBC DEFROBCS   ORPHAN   EWS
+536:  Stage
+530: S
+513: 9196 18016 46829 12192 20440 15590 10583 16679 8473 25163 35441 15967 26110 10921 15326 51675 98826 30524 35641 7401 93506 40308 59070 13724
+512:  I  
+505: (97.3737374) (94.7837750) (85.9646097) (96.5118421) (94.0716041) (95.5372663) (96.9659622) (95.2142111) (97.5647615) (92.6752061) (89.5868952) (95.4055944) (92.3826851) (96.8499656) (95.6055328) (84.5176078) (68.1164395) (91.0510720) (89.5128900) (97.8664807) (70.2033567) (88.0599617) (82.1358690) (96.0638523)
+460:  0100224610 - Information Technology
+445: Status:  
+444: Government Autonomous   Home University :   Autonomous Institute
+427:  State Level
+403:  GOPENS   GSCS   GSTS   GVJS   GNT1S   GNT2S   GNT3S   GOBCS   GSEBCS   LOPENS   LSCS   LSTS   LNT2S   LOBCS   LSEBCS   PWDOPENS   PWDOBCS   DEFOPENS   DEFOBCS   TFWS   PWDRSCS   DEFRNT3S   ORPHAN   EWS
+401:  Stage
+378: 12891 22881 61474 25469 24028 16590 18035 14193 20387 12183 28662 65926 15745 13342 17281 54426 88788 36897 45048 12026 77323 45117 67452 22723
+377:  I  
+370: (96.3316055) (93.3597277) (81.2846613) (92.5745163) (92.9975430) (95.2407244) (94.7837750) (95.9539167) (94.0956622) (96.5201084) (91.6544074) (79.9072027) (95.4505300) (96.1719670) (95.0157683) (83.7239356) (71.6607627) (89.1476381) (86.6718198) (96.5454743) (75.6538462) (86.6718198) (79.6033896) (93.4192837)
+324:  0100229310 - Electrical Engineering
+310: Status:  
+309: Government Autonomous   Home University :   Autonomous Institute
+292:  State Level
+268:  GOPENS   GSCS   GSTS   GVJS   GNT1S   GNT2S   GNT3S   GOBCS   GSEBCS   LOPENS   LSCS   LSTS   LVJS   LNT1S   LOBCS   LSEBCS   PWDOPENS   PWDOBCS   DEFOPENS   DEFOBCS   TFWS   PWDRSCS   DEFROBCS   EWS
+266:  Stage
+243: 28037 45807 81211 54199 33361 55530 45231 29365 50107 26875 41351 89472 63174 37913 30147 54480 97352 131185 56683 84091 31810 99969 64751 58738
+242:  I  
+234: (91.7521019) (86.3869833) (74.6802716) (83.7674516) (90.1610143) (83.2103258) (86.6223776) (91.3593874) (85.0571556) (92.1231015) (87.7785554) (71.5562808) (80.9669596) (88.7700729) (91.0820780) (83.5597353) (68.4887011) (53.6060165) (82.8811189) (73.5570613) (90.6536517) (67.8210479) (80.3531469) (82.2162613)
+71:  Legends: Starting character G-General, L-Ladies, End character H-Home University, O-Other than Home University,S-State Level, AI- All India Seat.
+60: Maharashtra State Seats - Cut Off Indicates Maharashtra State General Merit No.; Figures in bracket Indicates Merit Percentile.
+18:  1
+
+--- PAGE 2 ---
+813:  Government of Maharashtra
+812: D
+795: i  State Common Entrance Test Cell
+782:  Cut Off List for Maharashtra & Minority Seats of   CAP Round I   for Admission to First Year of Four Year
+779: r
+770: Degree Courses In Engineering and Technology & Master of Engineering and Technology (Integrated 5 Years) for the Year 2025-26
+748:  01002 - Government College of Engineering, Amravati
+730:  0100237210 - Electronics and Telecommunication Engg
+715: Status:  
+714: Government Autonomous   Home University :   Autonomous Institute
+697:  State Level
+674:  GOPENS   GSCS   GSTS   GVJS   GNT1S   GNT2S   GOBCS   GSEBCS   LOPENS   LSCS   LSTS   LVJS   LNT2S   LNT3S   LOBCS   LSEBCS   PWDOPENS   PWDOBCS   DEFOPENS   DEFOBCS   TFWS   PWDROBC DEFRSEBC ORPHAN   EWS
+671:  Stage
+665: S S
+648: 17151 36725 116393 37532 31138 17913 18719 30507 18397 37791 72278 35169 32000 41415 18895 29991 149070 182725 40691 58925 18894 165828 52275 159747 35492
+647:  I  
+640: (95.0636221) (89.1962092) (60.4221150) (88.9550679) (90.8833776) (94.8202997) (94.5862876) (91.0510720) (94.7159159) (88.7823852) (77.9513058) (89.6700597) (90.6332693) (87.7785554) (94.5372821) (91.2776413) (43.6588740) (21.3037657) (87.9289094) (82.1358690) (94.5372821) (32.6791073) (84.3296195) (37.1950556) (89.5355262)
+595:  0100246610 - Instrumentation Engineering
+580: Status:  
+579: Government Autonomous   Home University :   Autonomous Institute
+562:  State Level
+539:  GOPENS   GSCS   GSTS   GVJS   GNT2S   GNT3S   GOBCS   GSEBCS   LOPENS   LSCS   LSTS   LNT1S   LOBCS   LSEBCS   DEFOPENS   TFWS   EWS
+536:  Stage
+513: 45626 64794 190208 78201 56802 51152 50313 65579 40999 66067 87240 42330 58460 99619 38374 105120
+512:  I  
+505: (86.4120225) (80.3531469) (14.3147873) (75.6075065) (82.8437868) (84.6429815) (84.9728618) (79.9809712) (87.9235179) (79.8919296) (72.3760958) (87.4115391) (82.3322294) (67.8236662) (88.6801020) (65.5190641)
+485: 196674
+484:  II  
+477: (8.3381964)
+452:  0100261210 - Mechanical Engineering
+438: Status:  
+437: Government Autonomous   Home University :   Autonomous Institute
+420:  State Level
+396:  GOPENS   GSCS   GSTS   GVJS   GNT1S   GNT2S   GNT3S   GOBCS   GSEBCS   LOPENS   LSCS   LSTS   LNT2S   LOBCS   LSEBCS   PWDOPENS   DEFOPENS   DEFOBCS   TFWS   DEFRSEBC EWS
+394:  Stage
+388: S
+371: 34406 53314 134704 73509 49466 35304 43753 38117 60529 43339 60393 125170 73011 49484 83614 188072 51875 152603 36139 123660 75700
+370:  I  
+362: (89.8617670) (84.0359888) (51.5716400) (77.1618860) (85.1919561) (89.6391842) (87.0316109) (88.7615737) (81.6453226) (87.1376478) (81.7705077) (56.5039753) (77.2287062) (85.1919561) (73.6328536) (16.4425946) (84.4950314) (41.7471281) (89.2945239) (57.0133407) (76.7694659)
+71:  Legends: Starting character G-General, L-Ladies, End character H-Home University, O-Other than Home University,S-State Level, AI- All India Seat.
+60: Maharashtra State Seats - Cut Off Indicates Maharashtra State General Merit No.; Figures in bracket Indicates Merit Percentile.
+18:  1
+
+--- PAGE 3 ---
+813:  Government of Maharashtra
+812: D
+795: i  State Common Entrance Test Cell
+782:  Cut Off List for Maharashtra & Minority Seats of   CAP Round I   for Admission to First Year of Four Year
+779: r
+770: Degree Courses In Engineering and Technology & Master of Engineering and Technology (Integrated 5 Years) for the Year 2025-26
+748:  01005 - Sant Gadge Baba Amravati University,Amravati
+730:  0100550310 - Food Technology
+715: Status:  
+714: University Department   Home University :   Sant Gadge Baba Amravati University
+697:  Home University Seats Allotted to Home University Candidates
+674:  GOPENH   GSCH   GNT2H   GOBCH   LOPENH   LOBCH
+671:  Stage
+648: 23654 37414 47495 24342 8634 25406
+647:  I  
+640: (93.6155480) (89.7377897) (86.8241565) (93.4485531) (97.6779266) (93.1151448)
+595:  Home University Seats Allotted to Other Than Home University Candidates
+571:  GSTH
+569:  Stage
+545: 53836
+544:  I  
+537: (85.0232092)
+492:  Other Than Home University Seats Allotted to Other Than Home University Candidates
+468:  GOPENO   GSCO   GVJO   GNT1O   GSEBCO   LOPENO
+466:  Stage
+443: 4917 39936 82501 46985 68655 27666
+442:  I  
+435: (98.6379064) (89.0432875) (75.8886529) (86.9908896) (80.5600214) (92.4619674)
+389:  State Level
+366:  EWS
+363:  Stage
+340: 79514
+339:  I  
+332: (77.0149774)
+71:  Legends: Starting character G-General, L-Ladies, End character H-Home University, O-Other than Home University,S-State Level, AI- All India Seat.
+60: Maharashtra State Seats - Cut Off Indicates Maharashtra State General Merit No.; Figures in bracket Indicates Merit Percentile.
+18:  1
+
+--- PAGE 4 ---
+813:  Government of Maharashtra
+812: D
+795: i  State Common Entrance Test Cell
+782:  Cut Off List for Maharashtra & Minority Seats of   CAP Round I   for Admission to First Year of Four Year
+779: r
+770: Degree Courses In Engineering and Technology & Master of Engineering and Technology (Integrated 5 Years) for the Year 2025-26
+748:  01005 - Sant Gadge Baba Amravati University,Amravati
+730:  0100551710 - Oil and Paints Technology
+715: Status:  
+714: University Department   Home University :   Sant Gadge Baba Amravati University
+697:  Home University Seats Allotted to Home University Candidates
+674:  GOPENH   GVJH   GOBCH   GSEBCH   LOPENH
+671:  Stage
+648: 176548 183458 196887 194449 134313
+647:  I  
+640: (25.4741362) (20.2849168) (7.9877752) (10.7725189) (51.7009371)
+595:  Home University Seats Allotted to Other Than Home University Candidates
+571:  GSCH   GOBCH   LSCH
+569:  Stage
+545: 133905 132477
+544:  I  
+537: (52.1817116) (52.8806012)
+517:  II   171006
+509: (29.4125763)
+485:  Other Than Home University Seats Allotted to Other Than Home University Candidates
+461:  GOPENO   GOBCO
+459:  Stage
+436: 110594 120840
+435:  I  
+427: (63.2000580) (58.4401523)
+382:  State Level
+359:  TFWS   EWS
+356:  Stage
+333: 119043 191349
+332:  I  
+325: (59.1762367) (13.3124347)
+71:  Legends: Starting character G-General, L-Ladies, End character H-Home University, O-Other than Home University,S-State Level, AI- All India Seat.
+60: Maharashtra State Seats - Cut Off Indicates Maharashtra State General Merit No.; Figures in bracket Indicates Merit Percentile.
+18:  1
+
+--- PAGE 5 ---
+813:  Government of Maharashtra
+812: D
+795: i  State Common Entrance Test Cell
+782:  Cut Off List for Maharashtra & Minority Seats of   CAP Round I   for Admission to First Year of Four Year
+779: r
+770: Degree Courses In Engineering and Technology & Master of Engineering and Technology (Integrated 5 Years) for the Year 2025-26
+748:  01005 - Sant Gadge Baba Amravati University,Amravati
+730:  0100552410 - Paper and Pulp Technology
+715: Status:  
+714: University Department   Home University :   Sant Gadge Baba Amravati University
+697:  Home University Seats Allotted to Home University Candidates
+674:  GOPENH   LOPENH
+671:  Stage
+648: 181659 177217
+647:  I  
+640: (22.0346747) (25.2088452)
+595:  Home University Seats Allotted to Other Than Home University Candidates
+571:  GOPENH   GSCH   GOBCH   LOBCH
+569:  Stage
+545: 146086 203034 169379
+544:  I  
+537: (45.8266058) (1.0874687) (31.9226076)
+517:  II   187138
+509: (17.2365618)
+485:  Other Than Home University Seats Allotted to Other Than Home University Candidates
+461:  GOPENO   LOPENO   LOBCO
+459:  Stage
+436: 98098 178715
+435:  I  
+427: (68.3753318) (24.6987745)
+408: 184089
+407:  II  
+400: (19.4484962)
+375:  Other Than Home University Seats Allotted to Home University Candidates
+352:  LSCO
+349:  Stage
+326: 185040
+325:  I  
+318: (19.0847282)
+71:  Legends: Starting character G-General, L-Ladies, End character H-Home University, O-Other than Home University,S-State Level, AI- All India Seat.
+60: Maharashtra State Seats - Cut Off Indicates Maharashtra State General Merit No.; Figures in bracket Indicates Merit Percentile.
+18:  1
+
+--- PAGE 6 ---
+813:  Government of Maharashtra
+812: D
+795: i  State Common Entrance Test Cell
+782:  Cut Off List for Maharashtra & Minority Seats of   CAP Round I   for Admission to First Year of Four Year
+779: r
+770: Degree Courses In Engineering and Technology & Master of Engineering and Technology (Integrated 5 Years) for the Year 2025-26
+748:  01005 - Sant Gadge Baba Amravati University,Amravati
+730:  0100552710 - Petro Chemical Engineering
+715: Status:  
+714: University Department   Home University :   Sant Gadge Baba Amravati University
+697:  Home University Seats Allotted to Home University Candidates
+674:  GOPENH   GSCH   GOBCH   LOPENH   LSCH
+671:  Stage
+648: 138268 141682 156837 91401 112652
+647:  I  
+640: (49.7291102) (47.8015007) (39.3601986) (70.7504568) (62.0615406)
+595:  Home University Seats Allotted to Other Than Home University Candidates
+571:  GSEBCH
+569:  Stage
+545: 156903
+544:  I  
+537: (39.3601986)
+492:  Other Than Home University Seats Allotted to Other Than Home University Candidates
+468:  GOPENO   GNT3O   GOBCO
+466:  Stage
+443: 66017 91290 67494
+442:  I  
+435: (79.8919296) (71.0971787) (79.6033896)
+389:  State Level
+366:  TFWS   EWS
+363:  Stage
+340: 85124 199181
+339:  I  
+332: (73.2612864) (5.7122954)
+71:  Legends: Starting character G-General, L-Ladies, End character H-Home University, O-Other than Home University,S-State Level, AI- All India Seat.
+60: Maharashtra State Seats - Cut Off Indicates Maharashtra State General Merit No.; Figures in bracket Indicates Merit Percentile.
+18:  1
+
+--- PAGE 7 ---
+813:  Government of Maharashtra
+812: D
+795: i  State Common Entrance Test Cell
+782:  Cut Off List for Maharashtra & Minority Seats of   CAP Round I   for Admission to First Year of Four Year
+779: r
+770: Degree Courses In Engineering and Technology & Master of Engineering and Technology (Integrated 5 Years) for the Year 2025-26
+748:  01012 - Government College of Engineering,Yavatmal
+730:  0101219110 - Civil Engineering
+715: Status:  
+714: Government   Home University :   Sant Gadge Baba Amravati University
+697:  Home University Seats Allotted to Home University Candidates
+674:  GOPENH   GSCH   GSTH   GVJH   GNT2H   GNT3H   GOBCH   GSEBCH   LOPENH   LSCH   LSTH   LVJH   LNT1H   LOBCH   LSEBCH
+671:  Stage
+648: 85001 113546 153294 95118 107810 125465 92299 170087 90454 100020 122122 99012 128487 106506 130252
+647:  I  
+640: (73.4354379) (61.6834321) (41.4458186) (69.3295893) (64.2631037) (56.2929777) (70.5072010) (29.8059527) (71.4755245) (67.8210479) (57.6249683) (68.1117918) (54.5739657) (64.7131860) (53.7591782)
+595:  Other Than Home University Seats Allotted to Other Than Home University Candidates
+571:  GOPENO   GSCO   GNT2O   GOBCO   GSEBCO   LOPENO   LSTO
+569:  Stage
+545: 59346 90666 61413 76727 74967 80949 127253
+544:  I  
+537: (82.1124479) (71.1730870) (81.3270637) (76.2716859) (76.8973331) (74.9785452) (55.2744499)
+492:  State Level
+468:  DEFOPENS   TFWS   EWS
+466:  Stage
+443: 147419 69027 146339
+442:  I  
+435: (44.5303298) (78.6729363) (45.8266058)
+71:  Legends: Starting character G-General, L-Ladies, End character H-Home University, O-Other than Home University,S-State Level, AI- All India Seat.
+60: Maharashtra State Seats - Cut Off Indicates Maharashtra State General Merit No.; Figures in bracket Indicates Merit Percentile.
+18:  1
+
+--- PAGE 8 ---
+813:  Government of Maharashtra
+812: D
+795: i  State Common Entrance Test Cell
+782:  Cut Off List for Maharashtra & Minority Seats of   CAP Round I   for Admission to First Year of Four Year
+779: r
+770: Degree Courses In Engineering and Technology & Master of Engineering and Technology (Integrated 5 Years) for the Year 2025-26
+748:  01012 - Government College of Engineering,Yavatmal
+730:  0101224510 - Computer Engineering
+715: Status:  
+714: Government   Home University :   Sant Gadge Baba Amravati University
+697:  Home University Seats Allotted to Home University Candidates
+674:  GOPENH   GSCH   GSTH   GVJH   GNT1H   GNT2H   GOBCH   GSEBCH   LOPENH   LSCH   LNT3H   LOBCH   LSEBCH   PWDOPENH   PWDOBCH
+671:  Stage
+648: 48096 57852 88653 50335 55218 57876 51740 64034 33336 49675 61744 48412 75516 90754 98128
+647:  I  
+640: (85.6421968) (82.4521073) (71.6607627) (84.9728618) (83.4378744) (82.4521073) (84.5176078) (80.6021790) (90.1610143) (85.1139120) (81.1967017) (85.5729148) (76.7694659) (71.1730870) (68.3753318)
+595:  Other Than Home University Seats Allotted to Other Than Home University Candidates
+571:  GOPENO   GSCO   GSTO   GOBCO   GSEBCO   LOPENO   LSCO   LVJO   LNT2O   LOBCO   LSEBCO
+569:  Stage
+545: 26074 46977 82594 30036 37515 28324 49061 57207 65964 28406 57815
+544:  I  
+537: (92.3826851) (85.9124978) (73.8000589) (91.2776413) (88.9550679) (91.7146701) (85.2260888) (82.8332926) (79.8919296) (91.7067224) (82.4521073)
+492:  State Level
+468:  DEFOPENS   TFWS   DEFROBCS   EWS
+466:  Stage
+443: 84308 27585 120974 72125
+442:  I  
+435: (73.5570613) (91.9353149) (58.4401523) (78.0104170)
+71:  Legends: Starting character G-General, L-Ladies, End character H-Home University, O-Other than Home University,S-State Level, AI- All India Seat.
+60: Maharashtra State Seats - Cut Off Indicates Maharashtra State General Merit No.; Figures in bracket Indicates Merit Percentile.
+18:  1
+
+--- PAGE 9 ---
+813:  Government of Maharashtra
+812: D
+795: i  State Common Entrance Test Cell
+782:  Cut Off List for Maharashtra & Minority Seats of   CAP Round I   for Admission to First Year of Four Year
+779: r
+770: Degree Courses In Engineering and Technology & Master of Engineering and Technology (Integrated 5 Years) for the Year 2025-26
+748:  01012 - Government College of Engineering,Yavatmal
+730:  0101229310 - Electrical Engineering
+715: Status:  
+714: Government   Home University :   Sant Gadge Baba Amravati University
+697:  Home University Seats Allotted to Home University Candidates
+674:  GOPENH   GSCH   GSTH   GVJH   GNT1H   GOBCH   GSEBCH   LOPENH   LSCH   LSTH   LNT2H   LOBCH
+671:  Stage
+648: 75325 113593 162737 94634 95766 88273 159380 85091 119294 126288 98687 92685
+647:  I  
+640: (76.8955509) (61.6834321) (35.7798895) (69.4561708) (69.0979021) (71.8197195) (37.6293706) (73.2612864) (58.8994542) (55.6405756) (68.1164395) (70.5005064)
+595:  Home University Seats Allotted to Other Than Home University Candidates
+571:  GSTH   GSEBCH   LSEBCH
+569:  Stage
+545: 187165 84250 64830
+544:  I  
+537: (17.2365618) (73.5570613) (80.3531469)
+492:  Other Than Home University Seats Allotted to Other Than Home University Candidates
+468:  GOPENO   GSCO   GSTO   GVJO   GNT2O   GOBCO   GSEBCO   LOPENO   LSCO   LNT1O   LNT3O   LOBCO
+466:  Stage
+443: 57633 79963 160125 67396 79418 59437 76178 59472 100228 117466 161372 77314
+442:  I  
+435: (82.5532062) (75.1927485) (36.5248856) (79.6033896) (75.2405919) (82.1124479) (76.6755200) (82.1124479) (67.2177090) (60.2517483) (36.0836122) (75.6538462)
+389:  State Level
+366:  DEFOPENS   TFWS   DEFRSEBC EWS
+363:  Stage
+358: S
+340: 106155 61363 199094 168255
+339:  I  
+332: (64.7148712) (81.3270637) (5.7490133) (32.0884521)
+71:  Legends: Starting character G-General, L-Ladies, End character H-Home University, O-Other than Home University,S-State Level, AI- All India Seat.
+60: Maharashtra State Seats - Cut Off Indicates Maharashtra State General Merit No.; Figures in bracket Indicates Merit Percentile.
+18:  1
+
+--- PAGE 10 ---
+813:  Government of Maharashtra
+812: D
+795: i  State Common Entrance Test Cell
+782:  Cut Off List for Maharashtra & Minority Seats of   CAP Round I   for Admission to First Year of Four Year
+779: r
+770: Degree Courses In Engineering and Technology & Master of Engineering and Technology (Integrated 5 Years) for the Year 2025-26
+748:  01012 - Government College of Engineering,Yavatmal
+730:  0101237210 - Electronics and Telecommunication Engg
+715: Status:  
+714: Government   Home University :   Sant Gadge Baba Amravati University
+697:  Home University Seats Allotted to Home University Candidates
+674:  GOPENH   GSCH   GNT1H   GNT2H   GNT3H   GOBCH   GSEBCH   LOPENH   LSCH   LSTH   LVJH   LOBCH   LSEBCH
+671:  Stage
+648: 62199 98652 113350 102282 97789 69456 146672 60514 95375 169429 88975 67128 175145
+647:  I  
+640: (81.1295102) (68.1164395) (61.7969670) (66.3866132) (68.3753318) (78.6137148) (45.3566434) (81.6453226) (69.3295893) (31.9226076) (71.6607627) (79.6925092) (25.9873754)
+595:  Home University Seats Allotted to Other Than Home University Candidates
+571:  GSTH   GSEBCH
+569:  Stage
+545: 186837 70376
+544:  I  
+537: (17.6786167) (78.4342571)
+492:  Other Than Home University Seats Allotted to Other Than Home University Candidates
+468:  GOPENO   GSCO   GNT1O   GOBCO   LOPENO   LOBCO   LSEBCO
+466:  Stage
+443: 44759 55962 54165 48300 64403 65896 74486
+442:  I  
+435: (86.6759630) (83.1060395) (83.7674516) (85.6182564) (80.3575863) (79.9072027) (76.9322569)
+389:  State Level
+366:  DEFOPENS   DEFOBCS   TFWS   EWS
+363:  Stage
+340: 65891 78133 49118 103214
+339:  I  
+332: (79.9072027) (75.6075065) (85.2215842) (66.1695365)
+71:  Legends: Starting character G-General, L-Ladies, End character H-Home University, O-Other than Home University,S-State Level, AI- All India Seat.
+60: Maharashtra State Seats - Cut Off Indicates Maharashtra State General Merit No.; Figures in bracket Indicates Merit Percentile.
+18:  1
